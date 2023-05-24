@@ -1,5 +1,10 @@
 <!-- markdownlint-disable -->
 <h1 align="center"><b>Hello, I'm Mike. </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
+<div>
+
+![visitors](https://img.shields.io/endpoint?color=blue&label=Visitors&style=for-the-badge&url=https%3A%2F%2Fhits.dwyl.com%2Fmich-deg%2Fmich-deg.json)
+
+</div>
 
 ### :sunglasses: **About Me**
 
@@ -64,6 +69,10 @@ In my free time, I enjoy writing [blogs](https://www.mikelab.xyz/blog) to share 
 <!-- #### Profile visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mich-deg.mich-deg) -->
+
+<!-- [![HitCount](https://hits.dwyl.com/mich-deg/mich-deg.svg?style=flat-square)](http://hits.dwyl.com/mich-deg/mich-deg) -->
+
+<!-- [![HitCount](https://hits.dwyl.com/mich-deg/mich-deg.svg?style=flat)](http://hits.dwyl.com/mich-deg/mich-deg) -->
 
 <div align="center">
 
