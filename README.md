@@ -6,9 +6,8 @@
 
 </div>
 
-### <img src="https://media.giphy.com/media/FTL7HXxpMcB2SHWOGY/giphy.gif" width="50"> <b> _About Me_ </b>
+<h2> <img src="https://media.giphy.com/media/FTL7HXxpMcB2SHWOGY/giphy.gif" width="50"> <b> <i> About Me </i> </b> </h2>
 
-<hr>
 <p>
 
 I'm a <b> full-stack software engineer </b> with a passion for creating high-quality software that is both <b> scalable </b> and <b> maintainable </b>.
@@ -18,9 +17,7 @@ In my free time, I enjoy writing [blogs](https://www.mikelab.xyz/blog) to share 
 
 </p>
 
-<h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"><b> Tech Stack - things I code with </b> </h2>
-
-<hr>
+<h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"><b> <i> Tech Stack - things I code with </i> </b> </h2>
 
 <p align="center">
 
@@ -53,7 +50,7 @@ In my free time, I enjoy writing [blogs](https://www.mikelab.xyz/blog) to share 
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- **Dev tools**
+- **Dev tools** :
 
   ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -64,7 +61,7 @@ In my free time, I enjoy writing [blogs](https://www.mikelab.xyz/blog) to share 
 <br>
 <!-- ### :bar_chart: <b> Coding Stats </b> -->
 
-<h2><img src="https://media.giphy.com/media/bmQBu3aSF0DxadphkG/giphy.gif" width="35"> <b> Coding Stats </b> </h2>
+<h2><img src="https://media.giphy.com/media/bmQBu3aSF0DxadphkG/giphy.gif" width="35"> <b> <i> Coding Stats </i> </b> </h2>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -74,9 +71,7 @@ In my free time, I enjoy writing [blogs](https://www.mikelab.xyz/blog) to share 
 
 <br>
 
-<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b></h2>
-
-<hr>
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> <i> Github Stats </i> </b></h2>
 
 <!-- #### Profile visits
 
