@@ -6,7 +6,7 @@
 
 </div>
 
-### :sunglasses: **About Me**
+### :sunglasses: **About Me** 👨‍💻
 
 <hr>
 <p>
@@ -67,7 +67,9 @@ In my free time, I enjoy writing [blogs](https://www.mikelab.xyz/blog) to share 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+### :bar_chart: <b> Github Stats </b>
+
+ <!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> -->
 
 <hr>
 
