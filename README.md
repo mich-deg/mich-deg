@@ -6,7 +6,7 @@
 
 </div>
 
-### :sunglasses: **About Me** 👨‍💻
+### <img src="https://media.giphy.com/media/FTL7HXxpMcB2SHWOGY/giphy.gif" width="50"> <b> _About Me_ </b>
 
 <hr>
 <p>
@@ -18,7 +18,7 @@ In my free time, I enjoy writing [blogs](https://www.mikelab.xyz/blog) to share 
 
 </p>
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack - things I code with </b>
+<h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"><b> Tech Stack - things I code with </b> </h2>
 
 <hr>
 
@@ -61,15 +61,20 @@ In my free time, I enjoy writing [blogs](https://www.mikelab.xyz/blog) to share 
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </p>
+<br>
+<!-- ### :bar_chart: <b> Coding Stats </b> -->
 
-### :bar_chart: <b> Coding Stats </b>
+<h2><img src="https://media.giphy.com/media/bmQBu3aSF0DxadphkG/giphy.gif" width="35"> <b> Coding Stats </b> </h2>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-### :bar_chart: <b> Github Stats </b>
+<!--
+### :bar_chart: <b> Github Stats </b> -->
 
- <!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> -->
+<br>
+
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b></h2>
 
 <hr>
 
@@ -81,10 +86,8 @@ In my free time, I enjoy writing [blogs](https://www.mikelab.xyz/blog) to share 
 
 <!-- [![HitCount](https://hits.dwyl.com/mich-deg/mich-deg.svg?style=flat)](http://hits.dwyl.com/mich-deg/mich-deg) -->
 
-<div align="center">
+<div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mich-deg&hide=stars,contribs,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
-<div>
