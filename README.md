@@ -1,10 +1,6 @@
 <!-- markdownlint-disable -->
 <h1 align="center"><b>Hello, I'm Mike. </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 
-#### Profile visits
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mich-deg.mich-deg)
-
 ### :sunglasses: **About Me**
 
 <hr>
@@ -65,8 +61,12 @@ In my free time, I enjoy writing [blogs](https://www.mikelab.xyz/blog) to share 
 
 <hr>
 
-<dv align="center">
+<!-- #### Profile visits
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mich-deg.mich-deg) -->
+
+<div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mich-deg&hide=stars,contribs,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-</dv>
+</div>
