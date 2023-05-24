@@ -62,6 +62,11 @@ In my free time, I enjoy writing [blogs](https://www.mikelab.xyz/blog) to share 
 
 </p>
 
+### <b> Coding Stats </b>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <hr>
@@ -79,3 +84,5 @@ In my free time, I enjoy writing [blogs](https://www.mikelab.xyz/blog) to share 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mich-deg&hide=stars,contribs,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+<div>
