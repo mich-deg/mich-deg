@@ -62,7 +62,7 @@ In my free time, I enjoy writing [blogs](https://www.mikelab.xyz/blog) to share 
 
 </p>
 
-### <b> Coding Stats </b>
+### :bar_chart: <b> Coding Stats </b>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
