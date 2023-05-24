@@ -3,17 +3,19 @@
 
 ### :sunglasses: **About Me**
 
-<br>
+<hr>
+<p>
 
-<p align="justify">  I'm a <b> full-stack software engineer </b> with a passion for creating high-quality software that is both <b> scalable </b> and <b> maintainable </b>.
+I'm a <b> full-stack software engineer </b> with a passion for creating high-quality software that is both <b> scalable </b> and <b> maintainable </b>.
 I specialize in using the <b> Node.js ecosystem </b> and have experience in developing <b> web applications </b> using various technologies.
+
 In my free time, I enjoy writing [blogs](https://www.mikelab.xyz/blog) to share my insights and ideas with others and learning new technologies.
 
- </p>
+</p>
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack - things I code with </b>
 
-<br>
+<hr>
 
 <p align="center">
 
@@ -56,3 +58,5 @@ In my free time, I enjoy writing [blogs](https://www.mikelab.xyz/blog) to share 
 </p>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+<hr>
