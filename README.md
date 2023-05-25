@@ -1,5 +1,5 @@
 <!-- markdownlint-disable -->
-<h1 align="center"><b>Hello, I'm Mike. </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
+<h1 align="center"><b>Hello, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Mike. </b></h1>
 
 <img src="https://komarev.com/ghpvc/?username=mich-deg&style=for-the-badge&color=brightgreen" alt=""/>
 
@@ -20,7 +20,7 @@ In my free time, I enjoy writing [blogs](https://www.mikelab.xyz/blog) to share 
 
 </p>
 
-<h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"><b> <i> Things I code with </i> :hammer_and_wrench: </b>  </h2>
+<h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"><b> <i> Things I code with </i> </b>  </h2>
 
 <p align="center">
 
@@ -68,7 +68,7 @@ In my free time, I enjoy writing [blogs](https://www.mikelab.xyz/blog) to share 
 <br>
 <!-- ### :bar_chart: <b> Coding Stats </b> -->
 
-<h2><img src="https://media.giphy.com/media/bmQBu3aSF0DxadphkG/giphy.gif" width="30"> <b> <i> My Weekly Dev Metrics </i> </b> </h2>
+<h2><img src="https://media.giphy.com/media/bmQBu3aSF0DxadphkG/giphy.gif" width="30"> <b> <i> My Development Metrics </i> </b> </h2>
 
 <!--START_SECTION:waka-->
 
