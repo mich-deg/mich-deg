@@ -95,7 +95,7 @@ In my free time, I enjoy writing [blogs](https://www.mikelab.xyz/blog) to share 
 
 <div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mich-deg&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mich-deg&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
