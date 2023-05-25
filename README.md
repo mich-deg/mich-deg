@@ -95,7 +95,7 @@ In my free time, I enjoy writing [blogs](https://www.mikelab.xyz/blog) to share 
 
 <br>
 
-<h2><img src="https://media.giphy.com/media/Kepgxs7PMy4feKIkfJ/giphy.gif" width="50"><b> <i> I'm available if you need me. </i> </b></h2>
+<h2><img src="https://media.giphy.com/media/Kepgxs7PMy4feKIkfJ/giphy.gif" width="35"><b> <i> I'm available if you need me </i> </b></h2>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/michael-degife-asfaw-5866113b/">
