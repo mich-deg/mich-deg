@@ -77,7 +77,9 @@ In my free time, I enjoy writing [blogs](https://www.mikelab.xyz/blog) to share 
 
 <br>
 
-<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> <i> Github Profile Stats </i> </b></h2>
+<!-- <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> <i> My Github Stats </i> :fire: </b></h2> -->
+
+## :fire: My Stats
 
 <!-- #### Profile visits
 
@@ -98,8 +100,6 @@ In my free time, I enjoy writing [blogs](https://www.mikelab.xyz/blog) to share 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mich-deg&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mich-deg&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <br>
 
