@@ -71,6 +71,15 @@ In my free time, I enjoy writing [blogs](https://www.mikelab.xyz/blog) to share 
 <h2><img src="https://media.giphy.com/media/bmQBu3aSF0DxadphkG/giphy.gif" width="30"> <b> <i> My Weekly Dev Stats </i> </b> </h2>
 
 <!--START_SECTION:waka-->
+
+```text
+From: 23 May 2023 - To: 24 May 2023
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <!--
