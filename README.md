@@ -58,6 +58,7 @@ In my free time, I enjoy writing [blogs](https://www.mikelab.xyz/blog) to share 
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-OS-yellow.svg?style=for-the-badge&logo=linux&logoColor=white)
 
 </p>
 <br>
