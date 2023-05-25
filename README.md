@@ -68,7 +68,7 @@ In my free time, I enjoy writing [blogs](https://www.mikelab.xyz/blog) to share 
 <br>
 <!-- ### :bar_chart: <b> Coding Stats </b> -->
 
-<h2><img src="https://media.giphy.com/media/bmQBu3aSF0DxadphkG/giphy.gif" width="35"> <b> <i> My Weekly Dev Stats </i> </b> </h2>
+<h2><img src="https://media.giphy.com/media/bmQBu3aSF0DxadphkG/giphy.gif" width="30"> <b> <i> My Weekly Dev Stats </i> </b> </h2>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -78,9 +78,9 @@ In my free time, I enjoy writing [blogs](https://www.mikelab.xyz/blog) to share 
 
 <br>
 
-<!-- <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> <i> My Github Stats </i> :fire: </b></h2> -->
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> <i> My Github Stats </i> </b></h2>
 
-## :fire: <b> <i> My GitHub Stats </i> </b>
+<!-- ## :fire: <b> <i> My GitHub Stats </i> </b> -->
 
 <!-- #### Profile visits
 
