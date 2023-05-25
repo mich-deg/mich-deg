@@ -100,6 +100,12 @@ In my free time, I enjoy writing [blogs](https://www.mikelab.xyz/blog) to share 
 
 </div>
 
+<div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mich-deg&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 <br>
 
 <h2><img src="https://media.giphy.com/media/Kepgxs7PMy4feKIkfJ/giphy.gif" width="35"><b> <i> I'm available if you need me </i> </b></h2>
