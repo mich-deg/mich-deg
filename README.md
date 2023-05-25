@@ -88,16 +88,15 @@ In my free time, I enjoy writing [blogs](https://www.mikelab.xyz/blog) to share 
 <!-- [![HitCount](https://hits.dwyl.com/mich-deg/mich-deg.svg?style=flat-square)](http://hits.dwyl.com/mich-deg/mich-deg) -->
 
 <!-- [![HitCount](https://hits.dwyl.com/mich-deg/mich-deg.svg?style=flat)](http://hits.dwyl.com/mich-deg/mich-deg) -->
-
 <div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mich-deg&hide=stars,contribs,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mich-deg&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
 <div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mich-deg&theme=tokyonight)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mich-deg&hide=stars,contribs,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
