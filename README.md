@@ -1,21 +1,7 @@
 <!-- markdownlint-disable -->
 <h1 align="center"><b>Hello, I'm Mike. </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" width="100">
-<div id="badges">
-  <a href="https://www.linkedin.com/in/michael-degife-asfaw-5866113b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <!-- <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a> -->
-  <a href="https://twitter.com/asfaw_michael">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 <img src="https://komarev.com/ghpvc/?username=mich-deg&style=for-the-badge&color=brightgreen" alt=""/>
-</div>
 
 <!-- <div>
 
@@ -23,7 +9,7 @@
 
 </div> -->
 
-<h2> <img src="https://media.giphy.com/media/FTL7HXxpMcB2SHWOGY/giphy.gif" width="50"> <b> <i> About Me </i> </b> </h2>
+<h2> <img src="https://media.giphy.com/media/FTL7HXxpMcB2SHWOGY/giphy.gif" width="50"> <b> <i> About Me </i> </b>  </h2>
 
 <p>
 
@@ -105,4 +91,21 @@ In my free time, I enjoy writing [blogs](https://www.mikelab.xyz/blog) to share 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mich-deg&hide=stars,contribs,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+
+<br>
+
+<h2><img src="https://media.giphy.com/media/Kepgxs7PMy4feKIkfJ/giphy.gif" width="50"><b> <i> I'm available if you need me. </i> </b></h2>
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/michael-degife-asfaw-5866113b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <!-- <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a> -->
+  <a href="https://twitter.com/asfaw_michael">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 </div>
