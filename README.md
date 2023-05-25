@@ -41,6 +41,7 @@ In my free time, I enjoy writing [blogs](https://www.mikelab.xyz/blog) to share 
 - **Backend Technologies** :
 
   ![Node.js](https://img.shields.io/badge/Node.js-14.17.0-green.svg?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-14.17.0-green.svg?style=for-the-badge&logo=node.js&logoColor=white&label=Node)
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
   ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
