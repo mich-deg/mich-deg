@@ -20,7 +20,7 @@ In my free time, I enjoy writing [blogs](https://www.mikelab.xyz/blog) to share 
 
 </p>
 
-<h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"><b> <i> Tech Stack - things I code with </i> :hammer_and_wrench: </b>  </h2>
+<h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"><b> <i> Things I code with </i> :hammer_and_wrench: </b>  </h2>
 
 <p align="center">
 
@@ -68,7 +68,7 @@ In my free time, I enjoy writing [blogs](https://www.mikelab.xyz/blog) to share 
 <br>
 <!-- ### :bar_chart: <b> Coding Stats </b> -->
 
-<h2><img src="https://media.giphy.com/media/bmQBu3aSF0DxadphkG/giphy.gif" width="30"> <b> <i> My Weekly Dev Stats </i> </b> </h2>
+<h2><img src="https://media.giphy.com/media/bmQBu3aSF0DxadphkG/giphy.gif" width="30"> <b> <i> My Weekly Dev Metrics </i> </b> </h2>
 
 <!--START_SECTION:waka-->
 
