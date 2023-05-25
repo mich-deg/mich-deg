@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hello, I'm Mike. </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
+<img src="https://media.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" width="100">
 <div id="badges">
   <a href="https://www.linkedin.com/in/michael-degife-asfaw-5866113b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -34,7 +34,7 @@ In my free time, I enjoy writing [blogs](https://www.mikelab.xyz/blog) to share 
 
 </p>
 
-<h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"><b> <i> Tech Stack - things I code with </i> </b> </h2>
+<h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"><b> <i> Tech Stack - things I code with </i> :hammer_and_wrench: </b>  </h2>
 
 <p align="center">
 
