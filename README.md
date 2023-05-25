@@ -80,7 +80,7 @@ In my free time, I enjoy writing [blogs](https://www.mikelab.xyz/blog) to share 
 
 <!-- <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> <i> My Github Stats </i> :fire: </b></h2> -->
 
-## :fire: My Stats
+## :fire: <b> <i> My GitHub Stats </i> </b>
 
 <!-- #### Profile visits
 
