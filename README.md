@@ -93,6 +93,14 @@ In my free time, I enjoy writing [blogs](https://www.mikelab.xyz/blog) to share 
 
 </div>
 
+<div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mich-deg&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
+
+</div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mich-deg&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <br>
 
 <h2><img src="https://media.giphy.com/media/Kepgxs7PMy4feKIkfJ/giphy.gif" width="35"><b> <i> I'm available if you need me </i> </b></h2>
