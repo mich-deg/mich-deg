@@ -73,16 +73,19 @@ In my free time, I enjoy writing [blogs](https://www.mikelab.xyz/blog) to share 
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 May 2023 - To: 26 May 2023
+From: 23 May 2023 - To: 27 May 2023
 
-Total Time: 6 hrs 17 mins
+Total Time: 9 hrs 46 mins
 
-Markdown     3 hrs 52 mins   >>>>>>>>>>>>>>>----------   61.63 %
-JavaScript   1 hr 9 mins     >>>>>--------------------   18.40 %
-YAML         58 mins         >>>>---------------------   15.39 %
-Bash         8 mins          >------------------------   02.14 %
-JSON         6 mins          -------------------------   01.81 %
-Git Config   2 mins          -------------------------   00.64 %
+Markdown     3 hrs 52 mins   >>>>>>>>>>---------------   39.63 %
+JavaScript   1 hr 57 mins    >>>>>--------------------   20.10 %
+JSON         1 hr 26 mins    >>>>---------------------   14.80 %
+HTML         1 hr 8 mins     >>>----------------------   11.74 %
+YAML         58 mins         >>-----------------------   09.90 %
+Bash         8 mins          -------------------------   01.37 %
+Git Config   5 mins          -------------------------   00.96 %
+Other        5 mins          -------------------------   00.86 %
+CSS          3 mins          -------------------------   00.63 %
 ```
 
 <!--END_SECTION:waka-->
