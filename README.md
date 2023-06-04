@@ -73,7 +73,7 @@ In my free time, I enjoy writing [blogs](https://www.mikelab.xyz/blog) to share 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 May 2023 - To: 01 June 2023
+From: 23 May 2023 - To: 02 June 2023
 
 Total Time: 43 hrs 24 mins
 
