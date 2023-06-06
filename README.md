@@ -37,7 +37,7 @@ In my free time, I enjoy writing [blogs](https://www.mikelab.xyz/blog) to share 
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![NextJs](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Material UI](https://img.shields.io/badge/Material_UI-blue?style=for-the-badge&logo=material-ui&logoColor=white)
+  ![Material UI](https://img.shields.io/badge/Material--UI-blue?style=for-the-badge&logo=material-ui&logoColor=white)
 
 - **Backend Technologies** :
 
