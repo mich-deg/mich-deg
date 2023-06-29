@@ -14,10 +14,11 @@
 <p>
 
 I'm a <b> full-stack software engineer </b> with a passion for creating high-quality software that is both <b> scalable </b> and <b> maintainable </b>.
-Typically, <b>JavaScript/TypeScript</b> is my favorite language to code with. Its libraries and frameworks, such as <b>React</b>, <b>Next.js</b>, <b>Express.js</b>, and <b>NestJS</b>, are my specialties.
+Typically, <b>JavaScript/TypeScript</b> is my favorite language to code with. Its libraries and frameworks, such as <b>React</b>, <b>Next.js</b>, <b>Express.js</b>, and <b>NestJS</b>, are my specialties. 
 
+During my leisure time, I love to pen down my thoughts and insights on my [blog](https://www.mikelab.xyz/blog) and share them with others. 
 
-In my free time, I enjoy writing [blogs](https://www.mikelab.xyz/blog) to share my insights and ideas with others and learning new technologies. 
+I also have a passion for exploring and learning about new technologies.
 
 </p>
 
