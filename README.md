@@ -16,7 +16,7 @@
 I'm a <b> full-stack software engineer </b> with a passion for creating high-quality software that is both <b> scalable </b> and <b> maintainable </b>.
 Typically, <b>JavaScript/TypeScript</b> is my favorite language to code with. Its libraries and frameworks, such as <b>React</b>, <b>Next.js</b>, <b>Express.js</b>, and <b>NestJS</b>, are my specialties. 
 
-During my leisure time, I love to pen down my thoughts and insights on my [blog](https://www.mikelab.xyz/blog) and share them with others. 
+During my leisure time, I love to pen down my thoughts and insights on my [blog](https://www.mikelab.xyz/) and share them with others. 
 
 I also have a passion for exploring and learning about new technologies.
 
