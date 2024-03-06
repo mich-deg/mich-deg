@@ -77,7 +77,7 @@ I also have a passion for exploring and learning about new technologies.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 May 2023 - To: 03 March 2024
+From: 23 May 2023 - To: 04 March 2024
 
 Total Time: 921 hrs 23 mins
 
