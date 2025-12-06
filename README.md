@@ -77,20 +77,20 @@ I also have a passion for exploring and learning about new technologies.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 May 2023 - To: 03 December 2025
+From: 23 May 2023 - To: 04 December 2025
 
-Total Time: 1,126 hrs 38 mins
+Total Time: 1,131 hrs 1 min
 
-TypeScript         472 hrs 29 mins >>>>>>>>>>---------------   41.94 %
-JavaScript         461 hrs 3 mins  >>>>>>>>>>---------------   40.92 %
-JSON               46 hrs 32 mins  >------------------------   04.13 %
-Go                 38 hrs 17 mins  >------------------------   03.40 %
-YAML               30 hrs 16 mins  >------------------------   02.69 %
-Markdown           18 hrs          -------------------------   01.60 %
+TypeScript         476 hrs 52 mins >>>>>>>>>>>--------------   42.16 %
+JavaScript         461 hrs 3 mins  >>>>>>>>>>---------------   40.76 %
+JSON               46 hrs 32 mins  >------------------------   04.11 %
+Go                 38 hrs 17 mins  >------------------------   03.39 %
+YAML               30 hrs 16 mins  >------------------------   02.68 %
+Markdown           18 hrs          -------------------------   01.59 %
 Bash               12 hrs 25 mins  -------------------------   01.10 %
 Other              7 hrs 45 mins   -------------------------   00.69 %
-Rust               7 hrs 17 mins   -------------------------   00.65 %
-CSS                5 hrs 54 mins   -------------------------   00.53 %
+Rust               7 hrs 17 mins   -------------------------   00.64 %
+CSS                5 hrs 54 mins   -------------------------   00.52 %
 ```
 
 <!--END_SECTION:waka-->
